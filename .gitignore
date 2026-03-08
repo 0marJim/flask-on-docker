@@ -1,0 +1,9 @@
+# Environments
+.env.dev
+.env.prod
+.env.prod.db
+
+# Virtual environments
+services/web/env/
+__pycache__/
+*.pyc
