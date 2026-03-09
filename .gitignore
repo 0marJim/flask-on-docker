@@ -1,9 +1,7 @@
-# Environments
-.env.dev
-.env.prod
+# Sensitive Production Credentials (DO NOT UPLOAD)
 .env.prod.db
 
-# Virtual environments
+# Virtual environments & Cache
 services/web/env/
 __pycache__/
 *.pyc
