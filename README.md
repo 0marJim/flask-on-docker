@@ -6,7 +6,7 @@
 This repository contains a production-ready, containerized web application built with Flask, PostgreSQL, Gunicorn, and Nginx. The multi-container architecture separates the database, the application server, and the reverse proxy into distinct Docker services. It features secure environment variable injection, robust static and media file routing directly through Nginx via shared Docker volumes, and automated development build testing via GitHub Actions.
 
 ## Demo
-![Media Upload Demo](demo.gif)
+![Media Upload Demo](Demo.gif)
 
 ## Build Instructions
 
